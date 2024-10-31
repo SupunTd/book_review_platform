@@ -58,7 +58,7 @@ const Review = () => {
                 }
             );
 
-            setMessage("Review submitted successfully!");
+            setMessage("Review submitted successfully!.");
             setReview("");
             setRating(0);
         }
