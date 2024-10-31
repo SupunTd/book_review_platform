@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffbcaf8b-a96c-4929-a4a4-064d279e0959" name="Changes" comment="Review pannel add comment">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ffbcaf8b-a96c-4929-a4a4-064d279e0959" name="Changes" comment="updated port" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +61,8 @@
       <workItem from="1730316444165" duration="88000" />
       <workItem from="1730316535163" duration="677000" />
       <workItem from="1730346924408" duration="920000" />
+      <workItem from="1730349795173" duration="269000" />
+      <workItem from="1730352719008" duration="23000" />
     </task>
     <task id="LOCAL-00001" summary="Edit review pannel">
       <option name="closed" value="true" />
@@ -80,7 +80,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730347325774</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="updated port">
+      <option name="closed" value="true" />
+      <created>1730349865815</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730349865815</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +97,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Edit review pannel" />
     <MESSAGE value="Review pannel add comment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Review pannel add comment" />
+    <MESSAGE value="updated port" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated port" />
   </component>
 </project>

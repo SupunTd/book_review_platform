@@ -16,7 +16,7 @@ function App() {
 			<Route path="/" element={user ? <Main /> : <Navigate replace to="/login" />} />
 			<Route path="/signup" element={<Signup />} />
 			<Route path="/login" element={<Login />} />
-			<Route path="/bookpost" element={isAdmin ? <BookPost /> : <Navigate replace to="/login" />} />
+			<Route path="/bookpost" element={isAdmin ? <BookPost /> : <Navigate replace to="/login" />} /> //routing control
 			<Route path="/review/:bookId" element={<Review />} />
 		</Routes>
 	);
