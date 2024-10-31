@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffbcaf8b-a96c-4929-a4a4-064d279e0959" name="Changes" comment="Edit review pannel">
+    <list default="true" id="ffbcaf8b-a96c-4929-a4a4-064d279e0959" name="Changes" comment="Review pannel add comment">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Review/review.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Review/review.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,7 @@
       <workItem from="1730312817834" duration="3598000" />
       <workItem from="1730316444165" duration="88000" />
       <workItem from="1730316535163" duration="677000" />
-      <workItem from="1730346924408" duration="291000" />
+      <workItem from="1730346924408" duration="920000" />
     </task>
     <task id="LOCAL-00001" summary="Edit review pannel">
       <option name="closed" value="true" />
@@ -73,7 +72,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730317122488</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Review pannel add comment">
+      <option name="closed" value="true" />
+      <created>1730347325774</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730347325774</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +88,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Edit review pannel" />
-    <option name="LAST_COMMIT_MESSAGE" value="Edit review pannel" />
+    <MESSAGE value="Review pannel add comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Review pannel add comment" />
   </component>
 </project>
